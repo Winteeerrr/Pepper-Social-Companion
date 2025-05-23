@@ -3,7 +3,7 @@
 **Leveraging LLMs, Face Recognition, and Emotional Intelligence for Context-Aware Interactions**  
 *[Final Year Independent University Project]*
 
-A lightweight Python client-sevrer platform enabling SoftBank Pepper to conduct personalised, context-aware conversations, with speech recognition, face detection, emotion detection and memory by bridging Pepper's Python 2.7 environment to modern AI tools running on Python 3.12.
+A lightweight Python client-server platform enabling SoftBank Pepper to conduct personalised, context-aware conversations, with speech recognition, face detection, emotion detection and memory by bridging Pepper's Python 2.7 environment to modern AI tools running on Python 3.12.
 
 ---
 
